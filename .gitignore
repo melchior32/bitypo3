@@ -22,7 +22,7 @@
 # Ignore temp directory.
 /typo3temp/
 
-
+## from composer version
 .DS_Store
 .idea
 nbproject
